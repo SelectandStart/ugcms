@@ -1,87 +1,69 @@
 # Ultimate Gaming Community Management System (UGCMS)
+## Overview
 
-## Summary
-The Ultimate Gaming Community Management System (UGCMS) is a multi-purpose website that allows community owners to manage roles, donations, bans, profiles, in-game stats and more. Check out the full feature list below.
+The Ultimate Gaming Community Management System (UGCMS) is an all-in-one platform designed for community owners to manage and enhance their gaming communities. From managing user roles to handling donations, bans, and in-game statistics, UGCMS offers a comprehensive set of tools. Below is a breakdown of the platform’s robust features.
 
 ## Features
-With a wide array of features, our flexible permission system has both pre-created template roles, and the ability to create roles to be syncronized to Discord and Gameservers.
 
-### Synchronize information with and log in using Steam and/or Discord to create a profile
-- Users and Staff can log in using Steam and/or Discord, and manage whether or not their linked socials display on their profile. (Uses API calls to Steam and Discord to display information)
+### Seamless Social Integration
 
-### Manage, view, and appeal bans from Source Engine games, GoldSrc Games, Minecraft, and more to come!
-- Staff members can ban or unban users if they have permission
-- Extensive game support for many games
-  - Any Source Engine Game/Mod that supports SourceMod
-    - SourceBans Bans/Comms Mutes/Gags importing
-  - Any GoldSrc Engine Game/Mod that supports AMXModX
-    - AMXBansX Bans importing
-  - Minecraft server support
-    - Plugins to allow use of features in-game
-      - Plugin for Spigot
-      - Plugin for CraftBukkit
-      - Plugin for Forge
-      - And others!
+    Sync Profiles with Steam & Discord: Users and staff can easily log in and link their profiles using Steam and/or Discord. You have full control over which linked social profiles appear on your page.
+    API Integration: Display relevant social data via API calls to Steam and Discord.
 
-### Analytic Stats and Audit Logs! View how users are using your site
-- Staff with the given permissions can view:
-  - How users are visiting the website
-  - Ban statistics
-  - Donation statistics
-  - Audit logs
-  - And more! 
+### Effortless Ban Management Across Platforms
 
-### Manage donation packages, handle payments
-- Staff members with permissions are able to add/remove packages for users to donate for
-- Using Stripe, support debit/credit cards https://stripe.com/
-  - See all supported card brands at https://docs.stripe.com/terminal/payments/collect-card-payment/supported-card-brands
-- Using Paypal, direct customers to log in with Paypal for a quick payment!
-- Set up reccuring subscriptions or single payments
-  - Subscription packages are automatically and clearly labeled as such for clarity and transparency for customers
-  - One-time Payments are automatically and clearly labeled as such to show that they would only be paying one time
+- Multi-Game Ban Support: Easily manage bans and unbans across a variety of popular gaming platforms, including:
+  - Source Engine Games/Mods (e.g., Counter-Strike, TF2)
+  - GoldSrc Engine Games/Mods (e.g., Half-Life, Day of Defeat)
+  - Minecraft server integration for various platforms (Spigot, CraftBukkit, Forge)
+  - Make your own support! Your game isn't supported? Use the API to code your own plugin to interface with the website
+  - Advanced Ban Features: Import SourceBans, AMXBansX, and more!
 
-### Gamification
-- Toggleable gamification
-  - Level up system that can be synchronized with Discord and/or game servers
-- Users are rewarded for being active
-  - Rewards by visiting the site
-  - Browsing the site
-  - Logging in daily
-  - And more!
-- Make your own custom rewards
-  - Custom badges
-  - Stickers
-  - Experience (EXP) Bonuses
-  - And more!
+### Comprehensive Analytics & Audit Logs
 
-### Create Your Own Webpages
-- Use our What You See is What You Get (WYSIWYG) editor to make and edit:
-  - Static pages for use by your community:
-    - Create your own Message of the Day (MOTD) page
-    - Create other pages that display static content (non-changing)
-  - Create dynamic pages for use by your community:
-    - Create a loading screen for use on Garry's Mod servers
+- Track User Engagement: Staff can access detailed analytics about user activities on the site, such as:
+  - Visitor statistics
+  - Ban and donation data
+  - Audit logs for transparency
+  - And more…
 
-### Features For Nerds!
-- Entire project was proudly made in Laravel (PHP framework) with reusable Blade elements https://laravel.com/
-- Beautiful, custom Tailwind CSS https://tailwindcss.com/
-- Fully obfuscated clientside code when building the CSS with ``npm run buildcss``
-- Optionally different database support
-  - MySQL (default)
-  - PostgreSQL support
-  - Redis support
-  - MariaDB support
-  - SQLite
-  - SQL Server 2017+
-  - MongoDB support
-- A secure RESTful API
+### Streamlined Donation Management
+
+- Support for Donations: Easily manage donation packages and payment processing.
+  - Stripe: Process payments with debit/credit cards via Stripe (Card Brands Supported)
+  - PayPal: Users can donate through PayPal with a quick login process.
+  - Subscription or One-Time Payments: Offer recurring packages with clear labeling for both subscriptions and one-time payments.
+
+### Engage with Gamification
+
+- Reward User Activity: Enable a toggleable gamification system to incentivize user participation.
+- Level Up: Sync users’ level progression with Discord and/or game servers.
+- Custom Rewards: Create personalized rewards for active users, such as badges, experience bonuses, and stickers.
+
+### Customizable Webpages
+
+- Easy-to-Use WYSIWYG Editor: Create and edit both static and dynamic web pages to suit your community's needs.
+  - Static Pages: Ideal for MOTD (Message of the Day), announcements, or other non-changing content.
+  - Dynamic Pages: Perfect for creating custom loading screens (e.g., for Garry’s Mod servers).
+
+### Developer-Friendly Features
+
+- Built with Laravel: The platform is built using the powerful Laravel PHP framework, ensuring modularity and scalability.
+- Tailwind CSS: Enjoy a clean, custom design with Tailwind CSS.
+- Secure Client-Side Code: Client-side code is obfuscated for added security when using npm run buildcss.
+- Multiple Database Support:
+  - Default: MySQL
+  - Alternatives: PostgreSQL, Redis, MariaDB, SQLite, SQL Server 2017+, MongoDB
+  - RESTful API: Easily integrate UGCMS with other applications using our secure API.
 
 ## Installation
-``INSTALL.md`` Coming soon!
+
+- Coming Soon: A detailed installation guide will be available in INSTALL.md.
 
 ## Pricing
-Prices coming soon!
+
+- Coming Soon: Information regarding pricing will be released shortly.
 
 ## Bug Reports
-All bug reports should be sent to ``coming soon``!
 
+- Coming Soon: Please stay tuned for the official bug report submission process.
