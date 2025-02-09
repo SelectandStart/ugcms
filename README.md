@@ -77,7 +77,7 @@ With a wide array of features, our flexible permission system has both pre-creat
 - A secure RESTful API
 
 ## Installation
-Coming soon!
+``INSTALL.md`` Coming soon!
 
 ## Pricing
 Prices coming soon!
