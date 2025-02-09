@@ -1,4 +1,5 @@
 # Ultimate Gaming Community Management System (UGCMS)
+
 ## Overview
 
 The Ultimate Gaming Community Management System (UGCMS) is an all-in-one platform designed for community owners to manage and enhance their gaming communities. From managing user roles to handling donations, bans, and in-game statistics, UGCMS offers a comprehensive set of tools. Below is a breakdown of the platform’s robust features.
@@ -7,8 +8,8 @@ The Ultimate Gaming Community Management System (UGCMS) is an all-in-one platfor
 
 ### Seamless Social Integration
 
-    Sync Profiles with Steam & Discord: Users and staff can easily log in and link their profiles using Steam and/or Discord. You have full control over which linked social profiles appear on your page.
-    API Integration: Display relevant social data via API calls to Steam and Discord.
+- Sync Profiles with Steam & Discord: Users and staff can easily log in and link their profiles using Steam and/or Discord. You have full control over which linked social profiles appear on your page.
+- API Integration: Display relevant social data via API calls to Steam and Discord.
 
 ### Effortless Ban Management Across Platforms
 
