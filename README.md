@@ -1,5 +1,8 @@
 # Ultimate Gaming Community Management System (UGCMS)
 
+## Table of Contents
+- [Overview](README.md#Overview)
+
 ## Overview
 
 The Ultimate Gaming Community Management System (UGCMS) is an all-in-one platform designed for community owners to manage and enhance their gaming communities. From managing user roles to handling donations, bans, and in-game statistics, UGCMS offers a comprehensive set of tools.
