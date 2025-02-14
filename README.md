@@ -6,7 +6,7 @@
 - [Features](README.md#Features)
 - [Pricing](README.md#Pricing)
 - [Installation](README.md#Installation)
-- [Bug Reports](README.md#Bug_Reports)
+- [Bug Reports](README.md#Bug-Reports)
 
 ## Overview
 
