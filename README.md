@@ -46,6 +46,20 @@ Well, I was honestly tired of having multiple ban systems and donation systems a
 - Level Up: Sync users’ level progression with Discord and/or game servers.
 - Custom Rewards: Create personalized rewards for active users, such as badges, experience bonuses, and stickers.
 
+### Permission System
+- Set up expansive "groups" with permissions to access.
+- Choose a default group that all users receive when they create an account.
+- Web permission groups can be set seperately per section of the website (donation system, ban system, ad stats, profile management, gamification, site settings, static page generation, and audit logs)
+- Gameserver permission groups can be set seperately per server, per game mod/engine (Source, GoldSrc, etc.), or globally.
+- Superadmin group can be given to enable all permissions.
+- Override permissions per-user to allow for even more customization of access.
+
+### Ad Management
+- Eaily integrate banner ads, popup ads, popunder ads, and interstitial ads into the site.
+- View and manage statistics on ad performance.
+- Ads can be toggled to be hidden with permissions.
+- Export stats to CSV (Comma-separated values), Excel, PDF, or all three!
+
 ### Customizable Webpages
 
 - Easy-to-Use WYSIWYG Editor: Create and edit both static and dynamic web pages to suit your community's needs.
