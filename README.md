@@ -78,7 +78,7 @@ Well, I was honestly tired of having multiple ban systems and donation systems a
 
 ## Installation
 
-- Coming Soon: A detailed installation guide will be available in INSTALL.md.
+- Coming Soon: A detailed installation guide will be available in [INSTALL](INSTALL.md).
 
 ## Pricing
 
@@ -112,4 +112,4 @@ Well, I was honestly tired of having multiple ban systems and donation systems a
 
 ## Bug Reports
 
-- See ``SECURITY.md`` for vulnerability reporting. All other reports of minor bugs can be reported normally.
+- See [SECURITY.md](SECURITY.md) for vulnerability reporting. All other reports of minor bugs can be reported normally.
