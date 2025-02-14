@@ -2,6 +2,11 @@
 
 ## Table of Contents
 - [Overview](README.md#Overview)
+- [Why](README.md#Why)
+- [Features](README.md#Features)
+- [Pricing](README.md#Pricing)
+- [Installation](README.md#Installation)
+- [Bug Reports](README.md#Bug_Reports)
 
 ## Overview
 
@@ -79,10 +84,6 @@ Well, I was honestly tired of having multiple ban systems and donation systems a
   - Alternatives: PostgreSQL, Redis, MariaDB, SQLite, SQL Server 2017+, MongoDB
   - RESTful API: Easily integrate UGCMS with other applications using our secure API.
 
-## Installation
-
-- Coming Soon: A detailed installation guide will be available in [INSTALL.md](INSTALL.md).
-
 ## Pricing
 
 ### No Obligation, Cancel Any Time
@@ -112,6 +113,10 @@ Well, I was honestly tired of having multiple ban systems and donation systems a
 - Most overall savings
 - Lifetime updates
 - Comes with source code
+
+## Installation
+
+- Coming Soon: A detailed installation guide will be available in [INSTALL.md](INSTALL.md).
 
 ## Bug Reports
 
