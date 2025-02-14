@@ -78,7 +78,7 @@ Well, I was honestly tired of having multiple ban systems and donation systems a
 
 ## Installation
 
-- Coming Soon: A detailed installation guide will be available in [INSTALL](INSTALL.md).
+- Coming Soon: A detailed installation guide will be available in [INSTALL.md](INSTALL.md).
 
 ## Pricing
 
