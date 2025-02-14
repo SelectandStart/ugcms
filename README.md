@@ -84,31 +84,32 @@ Well, I was honestly tired of having multiple ban systems and donation systems a
 
 ### No Obligation, Cancel Any Time
 - $30 USD per month basic plan
-  - Lifetime updates
-  - Digital rights management (DRM) Enabled
+  - Monthly bills
+- Lifetime updates
+- Digital rights management (DRM) Enabled
 ### Minimum Commitment
-- $29 USD per month with 6 month contract
-  - Bills for $174
-  - Lifetime updates
-  - Digital rights management (DRM) Enabled
+- $29 USD per month with 3 month contract
+  - Bills for $87/quarter
+- Lifetime updates
+- Digital rights management (DRM) Enabled
 ### Startup Community
-- $28 USD per month with 12 month contract
-  - Bills for $336
-  - Lifetime updates
-  - Digital rights management (DRM) Enabled
+- $28 USD per month with 6 month contract
+  - Bills for $174/semi-annually (every 6 months)
+- Lifetime updates
+- Digital rights management (DRM) Enabled
 ### Established Community
-- $27 USD per month with 24 month contract
-  - Bills for $648
-  - Most savings for a contract plan
-  - Lifetime updates
-  - Digital rights management (DRM) Enabled
+- $27 USD per month with 12 month contract
+  - Bills for $336/yearly
+- Lifetime updates
+- Digital rights management (DRM) Enabled
 ### Enterprise Edition
-- $936 One Time for a Lifetime License
-  - No Anti-Piracy Features
-  - Most overall savings
-  - Lifetime updates
-  - Reach out for the open source code 
- 
+- Bills for $624
+  - One-Time for a Lifetime License
+- No Anti-Piracy Features
+- Most overall savings
+- Lifetime updates
+- Comes with source code
+
 ## Bug Reports
 
 - See ``SECURITY.md`` for vulnerability reporting. All other reports of minor bugs can be reported normally.
