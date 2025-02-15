@@ -5,6 +5,8 @@
 - [Why](README.md#Why)
 - [Features](README.md#Features)
   - [Seamless Social Integration](README.md#Seamless-Social-Integration)
+  - [Web Analytics Support](README.md#Web-Analytics-Support)
+  - [Gamesever Stats](README.md#Gamesever-Stats)
   - [Effortless Ban Management Across Platforms](README.md#Effortless-Ban-Management-Across-Platforms)
   - [Comprehensive Analytics & Audit Logs](README.md#Comprehensive-Analytics--Audit-Logs)
   - [Streamlined Donation Management](README.md#Streamlined-Donation-Management)
@@ -38,6 +40,18 @@ Well, I was honestly tired of having multiple ban systems and donation systems a
 
 - Sync Profiles with Steam & Discord: Users and staff can easily log in and link their profiles using Steam and/or Discord. You have full control over which linked social profiles appear on your page.
 - API Integration: Display relevant social data via API calls to Steam and Discord.
+
+### Web Analytics Support
+
+- Google Analytics and Google Tag Manager are supported, just follow the instructions!
+- Only users with the correct permissions can set/see Analytics API information
+- Track how users view your site
+ 
+### Gamesever Stats
+
+- Track player performance with HLStatsX compatible tracking
+- Allow users to show their stats on their profile along side their Steam and Discord informaiton
+- Allow users to embed a HTML display of their stats link anywhere embedding is allowed, such as forum signatures!
 
 ### Effortless Ban Management Across Platforms
 
