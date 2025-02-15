@@ -4,7 +4,21 @@
 - [Overview](README.md#Overview)
 - [Why](README.md#Why)
 - [Features](README.md#Features)
+  - [Seamless Social Integration](README.md#Seamless-Social-Integration)
+  - [Effortless Ban Management Across Platforms](README.md#Effortless-Ban-Management-Across-Platforms)
+  - [Comprehensive Analytics & Audit Logs](README.md#Comprehensive-Analytics--Audit-Logs)
+  - [Streamlined Donation Management](README.md#Streamlined-Donation-Management)
+  - [Engage with Gamification](README.md#Engage-with-Gamification)
+  - [Permission System](README.md#Permission-System)
+  - [Ad Management](README.md#Ad-Management)
+  - [Customizable Webpages](README.md#Customizable-Webpages)
+  - [Developer-Friendly Features](README.md#Developer-Friendly-Features)
 - [Pricing](README.md#Pricing)
+  - [No Obligation, Cancel Any Time](README.md#No-Obligation-Cancel-Any-Time)
+  - [Minimum Commitment](README.md#Minimum-Commitment)
+  - [Startup Community](README.md#Startup-Community)
+  - [Established Community](README.md#Established-Community)
+  - [Enterprise Edition](README.md#Enterprise-Edition)
 - [Installation](README.md#Installation)
 - [Bug Reports](README.md#Bug-Reports)
 
@@ -73,6 +87,9 @@ Well, I was honestly tired of having multiple ban systems and donation systems a
 - Easy-to-Use WYSIWYG Editor: Create and edit both static and dynamic web pages to suit your community's needs.
   - Static Pages: Ideal for MOTD (Message of the Day), announcements, or other non-changing content.
   - Dynamic Pages: Perfect for creating custom loading screens (e.g., for Garry’s Mod servers).
+
+### Secure Remote Console (RCON) Commands
+- With the given permissions, securely send commands to and display output from your gameservers.
 
 ### Developer-Friendly Features
 
