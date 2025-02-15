@@ -3,6 +3,7 @@
 ## Table of Contents
 - [Overview](README.md#Overview)
 - [Why](README.md#Why)
+- [Demo](README.md#Demo)
 - [Features](README.md#Features)
   - [Seamless Social Integration](README.md#Seamless-Social-Integration)
   - [Web Analytics Support](README.md#Web-Analytics-Support)
@@ -33,6 +34,18 @@ The Ultimate Gaming Community Management System (UGCMS) is an all-in-one platfor
 ## Why?
 
 Well, I was honestly tired of having multiple ban systems and donation systems across different types of games. Garry's Mod, (Team Fortress 2 and other Source Games use SourceMod), GoldSrc, and Sven Co-Op even have different systems. I just wanted one system to cover as many games as I can, and to be able to integrate any game it can't be used for easily using an API. Below is a breakdown of the platform’s robust features.
+
+## Demo
+
+Want to see Ultimate Gaming Community Management System (UGCMS) in action before buying it? You can [see our demo](https://ugcms.demo.selectandstart.com) here. Just remember, any changes made to the demo save, but are reset after 5 minutes. All dummy information is reset to default. You can either log in as a user or as a superadmin, and each shows information according to permissions.
+
+- Superadmin Account
+  - **Username**: root
+  - **Password**: root
+
+- User Account
+  - **Username**: user
+  - **Password**: user
 
 ## Features
 
@@ -156,4 +169,4 @@ Well, I was honestly tired of having multiple ban systems and donation systems a
 
 ## License
 
-All files on this Github are licensed as described in [LICENSE.md](LICENSE.md), all other files contained in the purchased version of are licensed under [our proprietary license](PROPRIETARYLICENSE.md)
+All files on this Github are licensed as described in [LICENSE.md](LICENSE.md), all other files contained in the purchased version of are licensed under [our proprietary license](PROPRIETARYLICENSE.md).
