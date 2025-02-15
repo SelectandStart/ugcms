@@ -24,11 +24,11 @@
   - [Enterprise Edition](README.md#Enterprise-Edition)
 - [Installation](README.md#Installation)
 - [Bug Reports](README.md#Bug-Reports)
+- [License](README.md#License)
 
 ## Overview
 
 The Ultimate Gaming Community Management System (UGCMS) is an all-in-one platform designed for community owners to manage and enhance their gaming communities. From managing user roles to handling donations, bans, and in-game statistics, UGCMS offers a comprehensive set of tools.
-
 
 ## Why?
 
@@ -153,3 +153,7 @@ Well, I was honestly tired of having multiple ban systems and donation systems a
 ## Bug Reports
 
 - See [SECURITY.md](SECURITY.md) for vulnerability reporting. All other reports of minor bugs can be reported normally.
+
+## License
+
+All files on this Github are licensed as described in [LICENSE.md](LICENSE.md), all other files contained in the purchased version of are licensed under [our proprietary license](PROPRIETARYLICENSE.md)
