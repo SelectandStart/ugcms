@@ -12,6 +12,7 @@
   - [Permission System](README.md#Permission-System)
   - [Ad Management](README.md#Ad-Management)
   - [Customizable Webpages](README.md#Customizable-Webpages)
+  - [Secure Remote Console (RCON) Commands](README.md#Secure-Remote-Console-RCON-Commands)
   - [Developer-Friendly Features](README.md#Developer-Friendly-Features)
 - [Pricing](README.md#Pricing)
   - [No Obligation, Cancel Any Time](README.md#No-Obligation-Cancel-Any-Time)
