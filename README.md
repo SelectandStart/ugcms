@@ -135,27 +135,27 @@ Coming Soon: Screenshots showing off various features, in addition to the demo a
 ## Pricing
 
 ### No Obligation, Cancel Any Time
-- $15 USD per month basic plan
+- $19.99/month basic plan
   - Monthly bills
 - Lifetime updates
 - Digital rights management (DRM) Enabled
 ### Minimum Commitment
-- $14 USD per month with 3 month contract
-  - Bills for $42/quarter
+- $14.99/month with 3 month contract
+  - Bills for $44.97/quarterly
 - Lifetime updates
 - Digital rights management (DRM) Enabled
 ### Startup Community
-- $13 USD per month with 6 month contract
-  - Bills for $78/semi-annually (every 6 months)
+- $9.99/month with 6 month contract
+  - Bills for $59.94/semi-annually (every 6 months)
 - Lifetime updates
 - Digital rights management (DRM) Enabled
 ### Established Community
-- $12 USD per month with 12 month contract
-  - Bills for $144/yearly
+- $4.99/month with 12 month contract
+  - Bills for $59.88/yearly
 - Lifetime updates
 - Digital rights management (DRM) Enabled
 ### Enterprise Edition
-- Bills for $528
+- Bills for $500
   - One-Time for a Lifetime License
 - No Anti-Piracy Features
 - Most overall savings
