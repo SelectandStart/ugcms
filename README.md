@@ -4,6 +4,7 @@
 - [Overview](README.md#Overview)
 - [Why](README.md#Why)
 - [Demo](README.md#Demo)
+- [Screenshots](README.md#Screenshots)
 - [Features](README.md#Features)
   - [Seamless Social Integration](README.md#Seamless-Social-Integration)
   - [Gamesever Stats](README.md#Gamesever-Stats)
@@ -23,6 +24,9 @@
   - [Established Community](README.md#Established-Community)
   - [Enterprise Edition](README.md#Enterprise-Edition)
 - [Installation](README.md#Installation)
+- [Troubleshooting](README.md#ITroubleshooting)
+- [Terms of Service](README.md#Terms-of-Service)
+- [Privacy Police](README.md#Privacy-Policy)
 - [Bug Reports](README.md#Bug-Reports)
 - [License](README.md#License)
 
@@ -45,6 +49,9 @@ Want to see Ultimate Gaming Community Management System (UGCMS) in action before
 - User Account
   - **Username**: user
   - **Password**: user
+
+## Screenshots
+Coming Soon: Screenshots showing off various features, in addition to the demo above.
 
 ## Features
 
@@ -158,6 +165,18 @@ Want to see Ultimate Gaming Community Management System (UGCMS) in action before
 ## Installation
 
 - Coming Soon: A detailed installation guide will be available in [INSTALL.md](INSTALL.md).
+
+## Troubleshooting
+
+- Coming Soon: A detailed installation guide will be available in the wiki and [TROUBLESHOOTING.md](TROUBLESHOOTING.md).
+
+## Terms of Service
+
+- Coming Soon: The Terms of Service will be available at the [UGCMS Website](https://ugcms.selectandstart.com).
+
+## Privacy Policy
+
+- Coming Soon: The Privacy Policy will be available at the [UGCMS Website](https://ugcms.selectandstart.com).
 
 ## Bug Reports
 
