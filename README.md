@@ -164,7 +164,7 @@ Coming Soon: Screenshots showing off various features, in addition to the demo a
 
 ## Installation
 
-- Coming Soon: A detailed installation guide will be available in [INSTALL.md](INSTALL.md).
+- Coming Soon: A detailed installation guide will be available in the wiki and [INSTALL.md](INSTALL.md).
 
 ## Troubleshooting
 
