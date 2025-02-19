@@ -5,6 +5,7 @@
 - [Why](README.md#Why)
 - [Demo](README.md#Demo)
 - [Screenshots](README.md#Screenshots)
+- [Alternatives](README.md#Alternatives)
 - [Features](README.md#Features)
   - [Seamless Social Integration](README.md#Seamless-Social-Integration)
   - [Gamesever Stats](README.md#Gamesever-Stats)
@@ -52,6 +53,10 @@ Want to see Ultimate Gaming Community Management System (UGCMS) in action before
 
 ## Screenshots
 Coming Soon: Screenshots showing off various features, in addition to the demo above.
+
+## Alternatives
+
+To be completely transparent, there is the completely free and open source [Azuriom](https://azuriom.com/), but it uses Bootstrap (which I'm not a fan of, Tailwind is nicer), only shows a few supported games, with the rest having to be made, and a seperate demo for Source games and Minecraft games (why?).
 
 ## Features
 
